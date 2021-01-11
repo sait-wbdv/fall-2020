@@ -11,7 +11,7 @@ title: SAIT WBDV Program Schedule
 - T: Orientation
 - W: DSGN 270 Day 1 - [Visual Hierarchy in Design]({% link _posts/2020-09-09-visual-hierarchy-design.md %})
 - R: DSGN 270 Day 2 - [User Experience Design and Accessibility]({% link _posts/2020-09-10-ux-accessibility.md %})
-- F: CPNT 201 Day 1 - GitHub
+- F: CPNT 201 Day 1 - [GitHub]({% link _posts/2020-09-11-fri-yay-gh-pages.md %})
 
 ## Week 2: September 14-18
 - M: CPNT 201 Day 2 - [Creating Git and GitHub Repos]({% link _posts/2020-09-14-git-gh.md %})
