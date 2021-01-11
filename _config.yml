@@ -51,7 +51,7 @@ url:
 # then add in the baseurl here, like this: "/repository-name"
 
 # baseurl: "/jekyll-now"
-baseurl: ""
+baseurl: "/fall-2020"
 
 #
 # !! You don't need to change any of the configuration flags below !!
