@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Week 2T - Responsive Web
+categories: dsgn270
 ---
 
 ## Lesson Prep

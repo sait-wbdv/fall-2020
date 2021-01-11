@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Week 2W - Performance, Copyright and License
+categories: dsgn270
 ---
 ## Agenda
 1. Performance Audits

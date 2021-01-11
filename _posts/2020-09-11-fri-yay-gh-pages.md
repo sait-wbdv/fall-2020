@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week 1F - GitHub
-categories: dsgn270
+categories: cpnt201
 ---
 
 ## Objectives for the day
