@@ -9,7 +9,7 @@ title: SAIT WBDV Program Schedule
 # Fall 2020 Schedule
 ## Week 1: September 8-11
 - T: Orientation
-- W: DSGN 270 Day 1 - [Visual Hierarchy in Design](/fall-2020{% link _posts/2020-09-09-visual-hierarchy-design %})
+- W: DSGN 270 Day 1 - [Visual Hierarchy in Design](/fall-2020{% link _posts/2020-09-09-visual-hierarchy-design.md %})
 - R: DSGN 270 Day 2 - [User Experience Design and Accessibility](/fall-2020{% link _posts/2020-09-10-ux-accessibility.md %})
 - F: CPNT 201 Day 1 - [GitHub](/fall-2020{% link _posts/2020-09-11-fri-yay-gh-pages.md %})
 
@@ -18,20 +18,20 @@ title: SAIT WBDV Program Schedule
 - T: DSGN 270 Day 3 - [Mobile Fundamentals](/fall-2020{% link _posts/2020-09-15-responsive-web.md %})
 - W: DSGN 270 Day 4 - [Performance, Copyright & Licensing](/fall-2020{% link _posts/2020-09-16-performance-copyright.md %})
 - R: CPNT 260 Day 1 - [Long-form text](/fall-2020{% link _posts/2020-09-17-long-form.md %})
-  - [DSGN 270 Assignment 1 Due](https://github.com/sait-wbdv/assessments/tree/master/dsgn270/design/assignment-1)
+  - [DSGN 270 Assignment 1 Due](https://github.com/sait-wbdv/assessments/tree/master/_archive/fall-2020/dsgn270/design/assignment-1)
 - F: CPNT 264 Day 1 - Career & Consulting Essentials
 
-Sunday, Sept 20 @ 8pm: [CPNT 201 Assignment 1 Due](https://github.com/sait-wbdv/assessments/tree/master/cpnt201/assignment-1)
+Sunday, Sept 20 @ 8pm: [CPNT 201 Assignment 1 Due](https://github.com/sait-wbdv/assessments/tree/master/_archive/fall-2020/cpnt201/assignment-1)
 
 ## Week 3: September 21-25
 - M: CPNT 260 Day 2 - [Full Viewport Containers](/fall-2020{% link _posts/2020-09-21-full-viewport-containers.md %})
 - T: CPNT 260 Day 3 - [Navigation and Colour](/fall-2020{% link _posts/2020-09-22-navigation-colour.md %})
 - W: CPNT 260 Day 4 - [Media Queries and Typography](/fall-2020{% link _posts/2020-09-23-media-queries-typography.md %})
 - R: CPNT 260 Day 5 - [Headers, Footers and Cards](/fall-2020{% link _posts/2020-09-24-headers-footers.md %})
-  - [DSGN 270 Assignment 2 Due](https://github.com/sait-wbdv/assessments/tree/master/dsgn270/design/assignment-2)
+  - [DSGN 270 Assignment 2 Due](https://github.com/sait-wbdv/assessments/tree/master/_archive/fall-2020/dsgn270/design/assignment-2)
 - F: CPNT 260 Day 6 - [Fluid Typography and Icon Fonts](/fall-2020{% link _posts/2020-09-25-fluid-typography.md %})
 
-Sunday, Sept 27 @ 8pm: [CPNT 260 Assignment 1 Due](https://github.com/sait-wbdv/assessments/tree/master/cpnt260/assignment-1)
+Sunday, Sept 27 @ 8pm: [CPNT 260 Assignment 1 Due](https://github.com/sait-wbdv/assessments/tree/master/_archive/fall-2020/cpnt260/assignment-1)
 
 ## Week 4: Sep 28 - Oct 2
 - M: CPNT 260 Day 7 - [Galleries and Grid Layout](/fall-2020{% link _posts/2020-09-28-grid-layout-galleries.md %})
@@ -40,14 +40,14 @@ Sunday, Sept 27 @ 8pm: [CPNT 260 Assignment 1 Due](https://github.com/sait-wbdv/
 - R: CPNT 260 Day 10 - [Review, Final Exam, Open Lab Time](/fall-2020{% link _posts/2020-09-30-progressive-enhancement.md %})
 - F: CPNT 201 Day 3 - [Image Optimization](/fall-2020{% link _posts/2020-10-02-raster-image-optimization.md %})
 
-Sunday, Oct 4 @ 8pm: [CPNT 260 Assignment 2 Due](https://github.com/sait-wbdv/assessments/tree/master/cpnt260/assignment-2)
+Sunday, Oct 4 @ 8pm: [CPNT 260 Assignment 2 Due](https://github.com/sait-wbdv/assessments/tree/master/_archive/fall-2020/cpnt260/assignment-2)
 
 ## Week 5: October 5-9
 - M: CPNT 201 Day 4 - [Image Editors and Image `width`/`height` Attributes](/fall-2020{% link _posts/2020-10-05-editors-width-height.md %})
 - T: CPNT 201 Day 5 - [Image `srcset` and Lazy Loading](/fall-2020{% link _posts/2020-10-06-srcset-lazy-loading.md %})
 - W: CPNT 201 Day 6 - [Vector Editors](/fall-2020{% link _posts/2020-10-07-vector-editors.md %})
 - R: CPNT 201 Day 7 - [SVG Fundamentals](/fall-2020{% link _posts/2020-10-08-svg-fundamentals.md %})
-  - [CPNT 260 Assignment 3 Due](https://github.com/sait-wbdv/assessments/tree/master/cpnt260/assignment-3)
+  - [CPNT 260 Assignment 3 Due](https://github.com/sait-wbdv/assessments/tree/master/_archive/fall-2020/cpnt260/assignment-3)
 - F: CPNT 262 Day 1 - [Hello Dobby](/fall-2020{% link _posts/2020-10-09-hello-dobby.md %})
 
 ## Week 6: Oct 12-16
@@ -55,13 +55,13 @@ Sunday, Oct 4 @ 8pm: [CPNT 260 Assignment 2 Due](https://github.com/sait-wbdv/as
 - T: CPNT 262 Day 2 - [Assignment and Primitive Types](/fall-2020{% link _posts/2020-10-13-variables-primitive-types.md %})
 - W: CPNT 262 Day 3 - [Stateful CSS Toggles](/fall-2020{% link _posts/2020-10-14-stateful-css-toggles.md %})
 - R: CPNT 262 Day 4 - [Strings, Numbers and Coersion](/fall-2020{% link _posts/2020-10-15-numbers-strings-coersion.md %})
-  - [CPNT 260 Final Project Due](https://github.com/sait-wbdv/assessments/tree/master/cpnt260/final)
+  - [CPNT 260 Final Project Due](https://github.com/sait-wbdv/assessments/tree/master/_archive/fall-2020/cpnt260/final)
 - F: CPNT 262 Day 5 - [Forms, Expressions and Conditionals](/fall-2020{% link _posts/2020-10-16-forms-expressions-conditionals.md %})
-  - [CPNT 201 Assignment 2 Due](https://github.com/sait-wbdv/assessments/tree/master/cpnt201/assignment-2)
+  - [CPNT 201 Assignment 2 Due](https://github.com/sait-wbdv/assessments/tree/master/_archive/fall-2020/cpnt201/assignment-2)
 
 ## Week 7: Oct 19-23
 - M: CPNT 262 Day 6 - [Functions, Events and Scope](/fall-2020{% link _posts/2020-10-19-functions-scope.md %})
-  - [CPNT 201 Assignment 3 Due](https://github.com/sait-wbdv/assessments/tree/master/cpnt201/assignment-3)
+  - [CPNT 201 Assignment 3 Due](https://github.com/sait-wbdv/assessments/tree/master/_archive/fall-2020/cpnt201/assignment-3)
 - T: CPNT 262 Day 7 - [Loops, forEach and Random indexes](/fall-2020{% link _posts/2020-10-20-loops-foreach-random.md %})
 - W: CPNT 262 Day 8 - [Importing `mjs` and Looping Objects](/fall-2020{% link _posts/2020-10-21-mjs-objects.md %})
 - R: CPNT 262 Day 9 - [Asynchronous JS and `fetch()`](/fall-2020{% link _posts/2020-10-22-async-fetch.md %})
