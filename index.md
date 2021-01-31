@@ -9,7 +9,7 @@ title: SAIT WBDV Program Schedule
 # Fall 2020 Schedule
 ## Week 1: September 8-11
 - T: Orientation
-- W: DSGN 270 Day 1 - [Visual Hierarchy in Design](/fall-2020{% link 2020-09-09-visual-hierarchy-design %})
+- W: DSGN 270 Day 1 - [Visual Hierarchy in Design](/fall-2020{% link _posts/2020-09-09-visual-hierarchy-design %})
 - R: DSGN 270 Day 2 - [User Experience Design and Accessibility](/fall-2020{% link _posts/2020-09-10-ux-accessibility.md %})
 - F: CPNT 201 Day 1 - [GitHub](/fall-2020{% link _posts/2020-09-11-fri-yay-gh-pages.md %})
 
